@@ -11,5 +11,3 @@ subu
 174
 abc
 def
-hi
-hi
